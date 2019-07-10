@@ -3,6 +3,7 @@
   "semanticCommitType": ":arrow_up:",
   "semanticCommitScope": null,
   "semanticCommits": true,
+  "prCreation": "approval",
   "packageRules": [
     {
       "updateTypes": [
