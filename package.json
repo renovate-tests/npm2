@@ -1,6 +1,6 @@
 {
   "name": "npm2",
   "dependencies": {
-    "chalk": "2.0.0"
+    "chalk": "3.0.0"
   }
 }
