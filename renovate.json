@@ -1,5 +1,5 @@
 {
   "extends": [
-    "github>renovatebot/presets-internal/docker-images"
+    "github>renovatebot/presets-internal:docker-images"
   ]
 }
