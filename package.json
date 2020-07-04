@@ -4,6 +4,6 @@
     "chalk": "2.0.0"
   },
   "devDependencies": {
-    "renovate": "19.236.8"
+    "renovate": "21.22.3"
   }
 }
