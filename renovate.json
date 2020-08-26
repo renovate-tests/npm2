@@ -1,3 +1,7 @@
 {
-  "prHeader": "hello hello"
+  "prHeader": "hello hello",
+  "lockFileMaintenance": {
+    "enabled": true,
+    "schedule": null
+  }
 }
