@@ -1,6 +1,13 @@
+
 {
-  "prHeader": "hello hello",
-  "lockFileMaintenance": {
+  "extends": [
+    "github>renovatebot/presets-internal:node",
+    "github>renovatebot/presets-internal:enable/adoption-compatibility"
+  ],
+  "prCreation": "immediate",
+  "prHourlyLimit": 0,
+  "prConcurrentLimit": 0,
+    "lockFileMaintenance": {
     "enabled": true,
     "schedule": null
   }
